@@ -1,0 +1,17 @@
+name: LeemonCore
+version: 1.0
+author: [MINTY, Poucy113]
+main: com.minty.leemonmc.core.CoreMain
+commands:
+  money:
+    description: money cmd
+  rank:
+    description: rank cmd
+  lag:
+    description: lag cmd
+  ping:
+    description: ping cmd
+  tps:
+    description: tps cmdd
+  nick:
+    description: nick cmd
